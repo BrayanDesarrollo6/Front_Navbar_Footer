@@ -43,8 +43,8 @@
     --color-copy-light: #000000;
 }
 .contenedor{
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     width: 100%;
 }
 .footer{
